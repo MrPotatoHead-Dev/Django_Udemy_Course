@@ -1,0 +1,13 @@
+/* this is how you comment in css */
+
+
+/* basic color command*/
+h4{color: red}
+/* hex codes */
+p{color:#0895a8}
+/* rgb colors */
+h1{color: rgb(255, 0, 251)}
+/* rgb colors with adjusted transparency */
+li{
+    color: rgba(0, 12, 0, 0.5)
+}   

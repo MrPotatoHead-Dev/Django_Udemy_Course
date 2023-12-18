@@ -1,0 +1,17 @@
+
+body{background: rgba(0, 255, 247, 0.871)}
+.heading{border: 1px solid black;}
+h2{color:purple}
+.thankyou{background:yellow}
+.commentTitle{background: yellow;}
+div{border: dashed yellow;
+    background: blue;}
+
+input{border: double rgb(0, 255, 13) 5px}
+
+#textBlock{border: 5px solid grey;
+            width:400px;
+            height:100px;}
+.topitem{ text-decoration:overline;
+            color: red}
+a.visited{color: red;}

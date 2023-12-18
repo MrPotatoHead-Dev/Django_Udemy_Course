@@ -1,0 +1,16 @@
+
+
+/*calling classes*/
+.firstDiv{color: red}
+.secondDiv{color: blue}
+
+/*calling ids*/
+#singledout{ color: green;
+            text-decoration: underline;}
+
+/*calling all elements
+*{color:black 
+    */
+/*adjacent elements as well as using border for multiple changes*/
+h3 + ul{border: 4px dotted purple}
+

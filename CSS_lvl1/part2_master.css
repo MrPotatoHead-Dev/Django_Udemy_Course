@@ -1,0 +1,9 @@
+body{background: url(https://cityfurnish.com/blog/wp-content/uploads/2023/08/beach-near-hotel-min.jpg)}
+div{background: rgb(33, 14, 14, 0.5);
+    color: white;
+    border-color: magenta;
+    border-style: double;
+    border-width: 5 px}
+p{color: yellow;
+width: thick;}
+span{color: red}
